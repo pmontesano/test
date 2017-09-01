@@ -51,7 +51,9 @@ if ($td_use_page_builder) {
     // the page is rendered using the page builder template (no sidebars)
     if (have_posts()) { ?>
         <?php while ( have_posts() ) : the_post(); ?>
-
+            <section>
+                <img src="http://marcelohalperin.com.ar/wp-content/uploads/2016/02/banner-top.png" alt="" style="width:100%;">
+            </section>
             <div class="td-main-content-wrap td-main-page-wrap">
                 <div class="td-container">
                     <?php the_content(); ?>

@@ -1,0 +1,65 @@
+[28-Feb-2016 19:38:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[29-Feb-2016 18:42:44 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function language_attributes() in /home/marcelo/public_html/wp-content/themes/Newspaper/header.php on line 4
+[29-Feb-2016 18:42:44 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[29-Feb-2016 18:42:45 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_util' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/footer.php on line 4
+[29-Feb-2016 18:42:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/author.php on line 6
+[29-Feb-2016 18:42:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/archive.php on line 6
+[29-Feb-2016 18:42:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[29-Feb-2016 18:42:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[12-Mar-2016 19:41:08 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[12-Mar-2016 19:41:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[12-Mar-2016 19:41:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_util' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/footer.php on line 4
+[25-May-2016 08:46:30 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/author.php on line 6
+[09-Jun-2016 13:46:17 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[05-Jul-2016 06:39:37 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[05-Jul-2016 06:39:45 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/author.php on line 6
+[05-Jul-2016 20:19:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[05-Jul-2016 20:19:17 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/author.php on line 6
+[07-Jul-2016 17:39:34 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[26-Jul-2016 09:39:17 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[26-Jul-2016 09:39:19 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/author.php on line 6
+[26-Jul-2016 09:39:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[02-Aug-2016 22:41:08 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[03-Aug-2016 04:22:26 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[05-Aug-2016 20:34:52 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[06-Aug-2016 03:36:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[06-Aug-2016 07:02:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[07-Aug-2016 20:05:43 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function language_attributes() in /home/marcelo/public_html/wp-content/themes/Newspaper/header.php on line 4
+[07-Aug-2016 20:05:44 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_util' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/footer.php on line 4
+[07-Aug-2016 20:05:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[07-Aug-2016 22:46:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function language_attributes() in /home/marcelo/public_html/wp-content/themes/Newspaper/header.php on line 4
+[07-Aug-2016 22:47:00 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_util' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/footer.php on line 4
+[07-Aug-2016 22:47:01 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[09-Aug-2016 18:28:28 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[10-Aug-2016 09:46:41 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function add_action() in /home/marcelo/public_html/wp-content/themes/Newspaper/includes/td_config.php on line 4220
+[29-Sep-2016 06:01:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[12-Oct-2016 21:01:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[14-Oct-2016 03:54:20 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[24-Oct-2016 01:51:19 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[24-Oct-2016 01:51:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[25-Oct-2016 17:14:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[18-Mar-2017 17:39:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[23-Mar-2017 22:17:26 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[31-Mar-2017 04:01:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[25-Apr-2017 23:34:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[26-Apr-2017 06:02:30 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[26-Apr-2017 17:58:36 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[23-Jun-2017 13:14:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[01-Jul-2017 11:40:26 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[01-Jul-2017 19:13:40 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[08-Jul-2017 05:33:26 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[08-Aug-2017 01:46:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[08-Aug-2017 01:46:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[14-Aug-2017 05:07:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[14-Aug-2017 14:20:37 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[14-Aug-2017 17:02:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function language_attributes() in /home/marcelo/public_html/wp-content/themes/Newspaper/header.php on line 4
+[14-Aug-2017 17:02:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/archive.php on line 6
+[14-Aug-2017 17:02:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/archive.php on line 6
+[14-Aug-2017 17:02:33 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[14-Aug-2017 17:02:33 America/Argentina/Buenos_Aires] PHP Fatal error:  Class 'td_global' not found in /home/marcelo/public_html/wp-content/themes/Newspaper/404.php on line 6
+[14-Aug-2017 21:47:29 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[15-Aug-2017 22:49:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[17-Aug-2017 15:01:30 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[17-Aug-2017 15:01:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[29-Aug-2017 20:50:18 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6
+[29-Aug-2017 20:50:19 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function get_header() in /home/marcelo/public_html/wp-content/themes/Newspaper/index.php on line 6

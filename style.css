@@ -16,7 +16,7 @@ Tags:black, white, one-column, two-columns, fixed-layout
     |   |/ ._>| | | |<_-<| . \<_> || . \/ ._>| '_>
     |_\_|\___.|__/_/ /__/|  _/<___||  _/\___.|_|
                          |_|       |_|
-    
+
   Thanks for using our theme !
   Our portfolio is here: http://www.jartheme.com/
 
@@ -5379,7 +5379,7 @@ ul.sf-js-enabled > li > a > i.td-icon-menu-down:before {
 */
 body,
 p {
-  font-family: Verdana, Geneva, sans-serif;
+  font-family: 'Open Sans', arial, sans-serif;
   font-size: 14px;
   line-height: 21px;
 }
@@ -26400,4 +26400,113 @@ td-md-is-safari
 /* visual composer hack - overwrite the theme display block  @since 18/6/2015 */
 .wpb_single_image .vc_single_image-wrapper {
   display: inline-block !important;
+}
+
+.td_module_wrap .entry-title {
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: uppercase;
+}
+
+.td-module-comments {
+  display: none;
+}
+
+
+/* sidebar */
+.wpb_column.vc_column_container.td-pb-span4 .td_module_wrap .entry-title {
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.td_module_8 {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+
+
+.post header .entry-title,
+.td-post-title .entry-title {
+  font-size: 28px;
+  line-height: 30px;
+}
+
+.td-post-content p {
+  font-family: 'Open Sans', arial, sans-serif !important;
+  font-size: 15px !important;
+}
+
+.td-page-title {
+  color: #4db2ec;
+}
+
+.block-title span {
+  display: block !important;
+}
+
+.td_block_15 .td-column-2 .td-module-thumb {
+  overflow: hidden;
+}
+
+.widgettitle {
+  background-color: #000;
+  display: block;
+}
+
+.td-main-sidebar .block-title,
+.td-main-sidebar .block-title span {
+  background-color: #607d8b !important;
+  border-color: #607d8b !important;
+}
+
+.td-post-date {
+  color: #666;
+}
+
+.td-pulldown-filter-display-option {
+  display: none !important;
+}
+
+.widget.widget_categories .block-title,
+.widget.widget_categories .block-title span{
+  background-color: #222 !important;
+  border-color: #222 !important;
+}
+
+.author-box-wrap {
+  display: none;
+}
+
+.jetpack_subscription_widget {
+   margin-top: 50px;
+}
+
+.jetpack_subscription_widget .block-title {
+  margin-bottom: 20px;
+}
+
+.jetpack_subscription_widget input[type="submit"] {
+  background-color: #4db2ec;
+}
+
+.td-post-content p,
+.td-post-content p span,
+.td-post-content p span span {
+  font-family: 'Open Sans', arial, sans-serif !important;
+  font-size: 15px !important;
+}
+
+.widget_categories .cat-item.cat-item-31,
+.widget_categories .cat-item.cat-item-32,
+.widget_categories .cat-item.cat-item-33,
+.widget_categories .cat-item.cat-item-1,
+.td-header-top-menu-full,
+.td-footer-info {
+  display: none !important;
+}
+
+.td-post-content ol li {
+    margin-left: 30px;
 }

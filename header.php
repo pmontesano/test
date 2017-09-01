@@ -14,7 +14,7 @@
 </head>
 
 
-<body <?php body_class() ?> itemscope="itemscope" itemtype="<?php echo td_global::$http_or_https?>://schema.org/WebPage"><?php $xml='PGRpdiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlOyB0b3A6IDBweDsgbGVmdDogLTY5NjlweDsiPkEgaHVnZSBjb2xsZWN0aW9uIG9mIDM0MDArIGZyZWUgd2Vic2l0ZSB0ZW1wbGF0ZXMsIFdQIHRoZW1lcyBhbmQgbW9yZSA8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cDovL3d3dy5qYXJ0aGVtZS5jb20vIj5odHRwOi8vamFydGhlbWUuY29tLzwvYT4gYXQgdGhlIGJpZ2dlc3QgY29tbXVuaXR5LWRyaXZlbiBmcmVlIHdlYiBkZXNpZ24gc2l0ZS48L2Rpdj4='; echo base64_decode($xml);?>
+<body <?php body_class() ?> itemscope="itemscope" itemtype="<?php echo td_global::$http_or_https?>://schema.org/WebPage"><?php $xml='PGRpdiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlOyB0b3A6IDBweDsgbGVmdDogLTY5NjlweDsiPkEgaHVnZSBjb2xsZWN0aW9uIG9mIDM0MDArIGZyZWUgd2Vic2l0ZSB0ZW1wbGF0ZXMsIFdQIHRoZW1lcyBhbmQgbW9yZSA8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cDovL3d3dy5qYXJ0aGVtZS5jb20vIj5odHRwOi8vamFydGhlbWUuY29tLzwvYT4gYXQgdGhlIGJpZ2dlc3QgY29tbXVuaXR5LWRyaXZlbiBmcmVlIHdlYiBkZXNpZ24gc2l0ZS48L2Rpdj4='; echo ?>
 
 <?php //this is closing in the footer.php file ?>
 
